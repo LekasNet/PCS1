@@ -1,0 +1,14 @@
+D:\Study\PCS\StudyList\StudyList\bin\Debug\net8.0\StudyList.exe
+D:\Study\PCS\StudyList\StudyList\bin\Debug\net8.0\StudyList.deps.json
+D:\Study\PCS\StudyList\StudyList\bin\Debug\net8.0\StudyList.runtimeconfig.json
+D:\Study\PCS\StudyList\StudyList\bin\Debug\net8.0\StudyList.dll
+D:\Study\PCS\StudyList\StudyList\bin\Debug\net8.0\StudyList.pdb
+D:\Study\PCS\StudyList\StudyList\obj\Debug\net8.0\StudyList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\PCS\StudyList\StudyList\obj\Debug\net8.0\StudyList.AssemblyInfoInputs.cache
+D:\Study\PCS\StudyList\StudyList\obj\Debug\net8.0\StudyList.AssemblyInfo.cs
+D:\Study\PCS\StudyList\StudyList\obj\Debug\net8.0\StudyList.csproj.CoreCompileInputs.cache
+D:\Study\PCS\StudyList\StudyList\obj\Debug\net8.0\StudyList.dll
+D:\Study\PCS\StudyList\StudyList\obj\Debug\net8.0\refint\StudyList.dll
+D:\Study\PCS\StudyList\StudyList\obj\Debug\net8.0\StudyList.pdb
+D:\Study\PCS\StudyList\StudyList\obj\Debug\net8.0\StudyList.genruntimeconfig.cache
+D:\Study\PCS\StudyList\StudyList\obj\Debug\net8.0\ref\StudyList.dll

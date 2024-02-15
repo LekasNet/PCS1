@@ -1,0 +1,62 @@
+{
+  "Students": [
+    {
+      "StudentID": 1,
+      "LastName": "Ivanov",
+      "FirstName": "Ivan",
+      "MiddleName": "Ivanovich"
+    },
+    {
+      "StudentID": 2,
+      "LastName": "Petrov",
+      "FirstName": "Petr",
+      "MiddleName": "Petrovich"
+    }
+  ],
+  "Subjects": [
+    {
+      "SubjectID": 101,
+      "Title": "Mathematics",
+      "LectureHours": 30,
+      "PracticeHours": 15
+    },
+    {
+      "SubjectID": 102,
+      "Title": "Physics",
+      "LectureHours": 25,
+      "PracticeHours": 10
+    }
+  ],
+  "Curriculum": [
+    {
+      "StudentID": 1,
+      "SubjectID": 101,
+      "Grade": 5
+    },
+    {
+      "StudentID": 1,
+      "SubjectID": 102,
+      "Grade": 4
+    },
+    {
+      "StudentID": 2,
+      "SubjectID": 101,
+      "Grade": 3
+    },
+    {
+      "StudentID": 2,
+      "SubjectID": 102,
+      "Grade": 5
+    },
+    {
+      "StudentID": 1,
+      "SubjectID": 101,
+      "Grade": 4
+    },
+    {
+      "StudentID": 2,
+      "SubjectID": 101,
+      "Grade": 5
+    }
+  ]
+}
